@@ -1,4 +1,5 @@
 from graphics import *
+from maze import Maze
 
 def main():
     win = Window(1000, 1000)
